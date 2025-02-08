@@ -1,0 +1,1 @@
+Developed an R-based tool to scrape MLB salary and player statistics from multiple online sources (Spotrac, ESPN) across 13 seasons. The tool integrates data for key performance metrics with salary information. By cleaning and merging datasets, I calculated ratios such as value per HR and RBI, allowing for an analysis of player performance relative to salary.
